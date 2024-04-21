@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/sureos"><img src="https://img.shields.io/badge/GitHub-sureos-blue?logo=github" /></a>
+<a href="https://github.com/Lucia"><img src="https://img.shields.io/badge/GitHub-Lucia-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/651245581"><img src="https://img.shields.io/badge/哔哩哔哩-Lucia-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-666666-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
